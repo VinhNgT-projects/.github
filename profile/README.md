@@ -1,5 +1,3 @@
-Link trang Github cá nhân: https://github.com/VinhNgT
-
 ## Danh sách các dự án
 
 ### Dự án cổng tự động Liên Hoà
